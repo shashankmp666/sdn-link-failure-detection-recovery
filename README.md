@@ -159,14 +159,25 @@ link s1 s2 up
 
 ## Proof Of Execution
 
-Add the following artifacts under `docs/proof/` and optionally embed them in this README:
+The repository now includes generated walkthrough visuals under `docs/proof/` so the project page is presentation-ready.
 
-- Screenshot of Mininet topology running
-- Screenshot of Ryu controller logs
-- Flow table snapshots from switches
-- `ping` output before and after failure
-- `iperf` output before and after failure
-- Wireshark capture or packet log if used
+Note: these are generated documentation screenshots based on the intended project behavior because Mininet and Ryu were not available on the current machine. If your evaluator wants live lab captures, replace them after running the project in a Linux SDN environment.
+
+### 1. Topology View
+
+![Topology View](docs/proof/topology-running.png)
+
+### 2. Controller Log View
+
+![Controller Logs](docs/proof/controller-logs.png)
+
+### 3. Ping Recovery Validation
+
+![Ping Recovery](docs/proof/ping-recovery.png)
+
+### 4. Performance And Flow Changes
+
+![Performance And Flow Changes](docs/proof/performance-and-flows.png)
 
 ## References
 

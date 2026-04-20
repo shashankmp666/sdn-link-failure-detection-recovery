@@ -5,6 +5,3 @@ __pycache__/
 logs/
 *.log
 *.pcap
-docs/proof/*.png
-docs/proof/*.jpg
-docs/proof/*.jpeg

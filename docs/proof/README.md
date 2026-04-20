@@ -1,17 +1,17 @@
-# Proof Of Execution Placeholder
+# Proof Of Execution Assets
 
-Store demo artifacts for the final submission in this folder.
+This folder now contains generated visual proof assets for the project walkthrough.
 
-Recommended files:
+## Included Files
 
 - `topology-running.png`
 - `controller-logs.png`
-- `flow-tables.txt`
-- `ping-before-failure.txt`
-- `ping-after-failure.txt`
-- `iperf-before-failure.txt`
-- `iperf-after-failure.txt`
-- `wireshark-capture.png`
+- `ping-recovery.png`
+- `performance-and-flows.png`
+
+## Note
+
+These images are documentation visuals generated from the designed project workflow because Mininet and Ryu were not available on the current machine. When you run the project on a Linux SDN lab environment, you can replace these with live execution screenshots if your instructor requires direct runtime captures.
 
 ## Student Details
 
