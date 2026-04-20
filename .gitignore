@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.swp
+.DS_Store
+logs/
+*.log
+*.pcap
+docs/proof/*.png
+docs/proof/*.jpg
+docs/proof/*.jpeg
